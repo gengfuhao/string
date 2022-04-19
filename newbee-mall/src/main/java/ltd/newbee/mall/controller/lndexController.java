@@ -11,14 +11,34 @@ import ltd.newbee.mall.newbeemall.util.Result;
 import ltd.newbee.mall.newbeemall.util.ResultGenerator;
 
 @Controller
+
 public class lndexController {
 	@Resource
 	private NewBeeMallIndexConfigService newBeeMallIndexConfigService;
+	
+	
+//	@GetMapping("/newGoods")
+//    @ResponseBody
+//    public Result hello() {
+//
+//        return ResultGenerator.genSuccessResult(newBeeMallIndexConfigService.getConfigGoodsesForIndex(3, 5));
+//    }
+//	@GetMapping("/recommendGoodses")
+//	 @ResponseBody
+//	    public Result recommend() {
+//
+//	        return ResultGenerator.genSuccessResult(newBeeMallIndexConfigService.getConfigGoodsesForIndex(4, 5));
+//	    }
+//	http://localhost:8080/Goodses?abs=4
+//	@GetMapping("/recommendGoodses")
+	@GetMapping("/Goodses")
+	 @ResponseBody
+	    public Result recommend(int abs) {
 
-	@GetMapping("/newGoods")
-    @ResponseBody
-    public Result hello() {
-
-        return ResultGenerator.genSuccessResult(newBeeMallIndexConfigService.getConfigGoodsesForIndex(3, 5));
-    }
+	       
+	       return ResultGenerator.genSuccessResult(newBeeMallIndexConfigService.getConfigGoodsesForIndex(abs, 5));
+    
+	}
+	
+	
 }
