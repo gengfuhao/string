@@ -528,3 +528,185 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2022-04-19 09:01:18,830 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-19 09:01:18,830 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-19 09:01:18,830 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 15:03:06,992 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:03:06,993 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:03:07,001 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:03:07,030 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:03:07,033 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:03:07,033 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:03:07,033 [Worker-63: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 15:25:09,936 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:25:09,937 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:25:09,939 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:25:09,968 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:25:09,977 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:25:09,977 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:25:09,978 [Worker-59: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 15:25:19,830 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:25:19,831 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:25:19,834 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:25:19,852 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:25:19,854 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:25:19,854 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:25:19,854 [Worker-72: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 15:34:49,167 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:34:49,175 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:34:49,187 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:34:49,238 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 15:34:49,292 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 15:34:49,292 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 15:34:49,292 [Worker-79: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 16:15:19,818 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 16:15:19,819 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 16:15:19,821 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 16:15:19,837 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 16:15:19,839 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 16:15:19,839 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 16:15:19,839 [Worker-86: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 16:25:13,448 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 16:25:13,455 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 16:25:13,461 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 16:25:13,505 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 16:25:13,514 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 16:25:13,514 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 16:25:13,514 [Worker-92: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 17:17:08,888 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 17:17:08,890 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 17:17:08,893 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-19 17:17:08,893 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 17:17:08,907 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 17:17:08,907 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 17:17:08,907 [Worker-103: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 18:30:34,613 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 18:30:34,615 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 18:30:34,617 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-19 18:30:34,617 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 18:30:34,621 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 18:30:34,621 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 18:30:34,621 [Worker-113: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 19:26:20,143 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 19:26:20,148 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 19:26:20,153 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 19:26:20,209 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 19:26:20,219 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 19:26:20,219 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 19:26:20,219 [Worker-113: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:14:08,645 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:14:08,652 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:14:08,657 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:14:08,678 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:14:08,681 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:14:08,682 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:14:08,682 [Worker-137: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:14:08,796 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:14:08,796 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:14:08,799 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:14:08,842 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:14:08,846 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:14:08,846 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:14:08,846 [Worker-133: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:26:47,965 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:47,968 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:47,973 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:47,997 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:48,016 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:48,016 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:48,016 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:26:48,332 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:48,332 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:48,333 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:48,353 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:48,360 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:48,363 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:48,363 [Worker-141: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:26:50,640 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:50,641 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:50,644 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:50,656 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:50,666 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:50,666 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:50,666 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:26:53,169 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:53,170 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:53,172 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:53,178 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:26:53,179 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:26:53,179 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:26:53,179 [Worker-143: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:37:25,935 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:37:25,939 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:37:25,940 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-19 21:37:25,941 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:37:25,945 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:37:25,946 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:37:25,946 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:37:51,229 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:37:51,232 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:37:51,235 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:37:51,251 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:37:51,274 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:37:51,274 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:37:51,274 [Worker-143: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:47:22,685 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:47:22,687 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:47:22,689 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:47:22,703 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:47:22,704 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:47:22,704 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:47:22,704 [Worker-149: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:47:55,942 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:47:55,944 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:47:55,946 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:47:55,964 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:47:55,967 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:47:55,967 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:47:55,967 [Worker-152: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:49:18,114 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:18,115 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:18,118 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:18,132 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:18,134 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:18,134 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:18,134 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:49:29,424 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:29,425 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:29,428 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:29,446 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:29,452 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:29,452 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:29,452 [Worker-151: newbee-mall - NewbeeMallApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:49:30,217 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:30,218 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:30,220 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:30,231 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:49:30,235 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:49:30,235 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:49:30,235 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:53:42,733 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:53:42,734 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:53:42,736 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:53:42,741 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:53:42,742 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:53:42,742 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:53:42,743 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:55:13,892 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:55:13,894 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:55:13,896 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:55:13,899 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:55:13,902 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:55:13,902 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:55:13,902 [Worker-144: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:56:24,824 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:56:24,831 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:56:24,836 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:56:24,886 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:56:24,888 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:56:24,888 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:56:24,888 [Worker-160: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
+2022-04-19 21:56:54,195 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:56:54,195 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:56:54,195 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:56:54,205 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-19 21:56:54,206 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-19 21:56:54,206 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-19 21:56:54,206 [Worker-162: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gengfuhao/Documents/stringbootworkspace/newbee-mall/src/test/resources
